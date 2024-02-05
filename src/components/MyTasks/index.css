@@ -1,0 +1,60 @@
+.app-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.input-container {
+  background-color: #1a171d;
+  height: 100vh;
+  width: 35vw;
+  padding: 20px;
+}
+.create-heading {
+  color: #f3aa4e;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  text-align: center;
+}
+.inputoption-container {
+  margin-bottom: 20px;
+}
+.label {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.input {
+  color: #64748b;
+  font-size: 20px;
+  height: 40px;
+  width: 100%;
+  padding: 10px;
+}
+.btn {
+  background-color: #f3aa4e;
+  padding: 20px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: white;
+  font-size: 20px;
+}
+.output-container {
+  background-color: #000000;
+  padding: 10px;
+  height: 100vh;
+  width: 65vw;
+}
+.tag-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.tags-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

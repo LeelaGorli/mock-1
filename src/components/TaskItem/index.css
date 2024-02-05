@@ -1,0 +1,23 @@
+.list {
+  background-color: #323f4b;
+  padding: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.tag-heading {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.tag-box {
+  background-color: #f3aa4e;
+  padding: 20px;
+  border-radius: 5px;
+  border-width: 0px;
+  color: black;
+  font-size: 20px;
+}
